@@ -43,12 +43,10 @@ public class MainActivity extends AppCompatActivity
 			
 			in.close();
 			String value = stringBuilder.toString();
-			Log.v( LOG_TAG, "ad: " + value );
 			
 			TextView textView = (TextView) findViewById( R.id.textview );
 			textView.setText( value );
 			textView.setMovementMethod(new ScrollingMovementMethod());
-			// textView.setScrollBarStyle( View.SCROLLBARS_INSIDE_OVERLAY );
 		}
 		catch( IOException e )
 		{

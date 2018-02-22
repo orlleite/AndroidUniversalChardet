@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidUniversalCharset.iml" filepath="$PROJECT_DIR$/AndroidUniversalCharset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidUniversalChardet.iml" filepath="$PROJECT_DIR$/AndroidUniversalChardet.iml" />
       <module fileurl="file://$PROJECT_DIR$/androiduniversalchardet/androiduniversalchardet.iml" filepath="$PROJECT_DIR$/androiduniversalchardet/androiduniversalchardet.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
