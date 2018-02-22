@@ -1,4 +1,4 @@
-# AndroidUniversalCharset
+# AndroidUniversalChardet
 
 It's a mirror and set for using with gradle and android. There is an example project and the original port source (untouched).
 
